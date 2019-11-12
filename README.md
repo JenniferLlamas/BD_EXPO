@@ -13,6 +13,6 @@ A support vector machine constructs a hyperplane or set of hyperplanes in a high
 * [Apache Spark](https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/)
 
 
-##Previous Knowledge
+### Previous Knowledge
  *Linear Algebra
 
