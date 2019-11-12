@@ -14,12 +14,12 @@ A support vector machine constructs a hyperplane or set of hyperplanes in a high
 
 
 ### Previous Knowledge
- *Linear Algebra
+ * Linear Algebra
  
- ###  Basis of Concepts
+ ###  Basic Concepts
 
-*Hyperplane: It is a plane that divides space into two halves.
-*Transposed Matrix: It is formed  by writing its columns as rows.
+* Hyperplane: It is a plane that divides space into two halves.
+* Transposed Matrix: It is formed  by writing its columns as rows.
 
 ###  Sparse data (Sparse)
 Algorithms for SVM significantly improve their efficiency if they are scattered data
@@ -46,7 +46,7 @@ For data that is not linearly separable, we can project the data to the space wh
 An excellent ability to generalize, due to the minimization of structured risk.
 There are few parameters to adjust the model only depends on the data with more information.
 
-###  Success stories
+###  Applications
 
 -Optical character recognition
  
